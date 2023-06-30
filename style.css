@@ -1,0 +1,9 @@
+.header {
+    width:80%;
+    font-size: 25px;
+}
+#camera{
+    width:350px;
+    height:350px;
+    border: 1px dashed blueviolet;
+}
